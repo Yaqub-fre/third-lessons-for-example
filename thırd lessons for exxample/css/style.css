@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.first{
+    padding: 37px;
+    text-align: center;
+    background-color: rgb(53, 201, 53);
+    color: aliceblue;
+}
+.second a{
+    text-decoration: none;
+    padding: 60px;
+}
+.second{
+    text-align: center;
+    margin-top: 12px;
+}
+.third{
+margin-left: 34px;
+
+}
+.third132{
+    margin-top: 12px;
+}
+.fourth img{
+    margin-left: 200px;
+    margin-top: 23px;
+    height: 90px;
+}
+.five{
+    margin-left: 34px ;
+    margin-top: 34px;
+}
+.five a{
+    color: rgb(141, 182, 81);
+}
+.sixth{
+    margin-left: 34px;
+    margin-top: 23px;
+}
+.sixth h3{
+    color: rgb(141, 182, 81);
+    margin-top: 12px;
+}
+.sixth ul{
+    list-style: none;
+}
+.sixth li{
+    margin-left: 43px;
+    list-style: dot;
+}
+.sixth123 li{
+    list-style: dot;
+    margin-left: 43px;
+}
+.sixth button{
+    padding: 5px 425px;
+    margin: 57px 0 57px 0;
+    background-color: rgb(141, 182, 81);
+    border-radius: 200px ;
+}
